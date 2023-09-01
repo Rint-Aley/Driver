@@ -1,0 +1,8 @@
+1 open D:\Visual Studio Projects\HID_Reader\HID_Reader\bin\Debug\Data\Settings.txt
+2 type Some text
+3 pressCombination a|s 10 c|e
+4
+5
+6
+7
+8

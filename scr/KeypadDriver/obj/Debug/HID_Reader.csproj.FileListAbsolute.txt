@@ -1,0 +1,15 @@
+D:\Visual Studio Projects\HID_Reader\HID_Reader\bin\Debug\HID_Reader.exe.config
+D:\Visual Studio Projects\HID_Reader\HID_Reader\bin\Debug\HID_Reader.exe
+D:\Visual Studio Projects\HID_Reader\HID_Reader\bin\Debug\HID_Reader.pdb
+D:\Visual Studio Projects\HID_Reader\HID_Reader\obj\Debug\HID_Reader.csproj.AssemblyReference.cache
+D:\Visual Studio Projects\HID_Reader\HID_Reader\obj\Debug\HID_Reader.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio Projects\HID_Reader\HID_Reader\obj\Debug\HID_Reader.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\HID_Reader\HID_Reader\obj\Debug\HID_Reader.exe
+D:\Visual Studio Projects\HID_Reader\HID_Reader\obj\Debug\HID_Reader.pdb
+D:\Visual Studio Projects\HID_Reader\HID_Reader\bin\Debug\System.Memory.dll
+D:\Visual Studio Projects\HID_Reader\HID_Reader\bin\Debug\System.Numerics.Vectors.dll
+D:\Visual Studio Projects\HID_Reader\HID_Reader\bin\Debug\System.Buffers.dll
+D:\Visual Studio Projects\HID_Reader\HID_Reader\obj\Debug\HID_Reader.csproj.CopyComplete
+D:\Visual Studio Projects\HID_Reader\HID_Reader\bin\Debug\HidSharp.dll
+D:\Visual Studio Projects\HID_Reader\HID_Reader\bin\Debug\HidSharp.pdb
+D:\Visual Studio Projects\HID_Reader\HID_Reader\bin\Debug\HidSharp.xml

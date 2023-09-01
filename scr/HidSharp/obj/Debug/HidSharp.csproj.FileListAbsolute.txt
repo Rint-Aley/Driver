@@ -1,0 +1,14 @@
+C:\Users\z\Documents\HIDSharp\bin\HidSharp.XML
+C:\Users\z\Documents\HIDSharp\bin\HidSharp.dll
+C:\Users\z\Documents\HIDSharp\bin\HidSharp.pdb
+C:\Users\z\Documents\HIDSharp\HidSharp\obj\Debug\HidSharp.csproj.AssemblyReference.cache
+C:\Users\z\Documents\HIDSharp\HidSharp\obj\Debug\HidSharp.csproj.CoreCompileInputs.cache
+C:\Users\z\Documents\HIDSharp\HidSharp\obj\Debug\HidSharp.dll
+C:\Users\z\Documents\HIDSharp\HidSharp\obj\Debug\HidSharp.pdb
+D:\Visual Studio Projects\HID_Reader\HID_Reader\bin\HidSharp.XML
+D:\Visual Studio Projects\HID_Reader\HID_Reader\bin\HidSharp.dll
+D:\Visual Studio Projects\HID_Reader\HID_Reader\bin\HidSharp.pdb
+D:\Visual Studio Projects\HID_Reader\HID_Reader\HidSharp\obj\Debug\HidSharp.csproj.AssemblyReference.cache
+D:\Visual Studio Projects\HID_Reader\HID_Reader\HidSharp\obj\Debug\HidSharp.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\HID_Reader\HID_Reader\HidSharp\obj\Debug\HidSharp.dll
+D:\Visual Studio Projects\HID_Reader\HID_Reader\HidSharp\obj\Debug\HidSharp.pdb

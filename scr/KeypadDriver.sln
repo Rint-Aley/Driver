@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeypadDriver", "KeypadDriver\KeypadDriver.csproj", "{7ACD7D23-823D-446F-8A85-FF498C8A62F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HidSharp", "HidSharp\HidSharp.csproj", "{0DB86674-2A7B-4BDC-93C1-3F7DC771426C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7ACD7D23-823D-446F-8A85-FF498C8A62F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7ACD7D23-823D-446F-8A85-FF498C8A62F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7ACD7D23-823D-446F-8A85-FF498C8A62F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7ACD7D23-823D-446F-8A85-FF498C8A62F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DB86674-2A7B-4BDC-93C1-3F7DC771426C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DB86674-2A7B-4BDC-93C1-3F7DC771426C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DB86674-2A7B-4BDC-93C1-3F7DC771426C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DB86674-2A7B-4BDC-93C1-3F7DC771426C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {041E920B-D5BB-47A1-99AD-2FEAA56824BC}
+	EndGlobalSection
+EndGlobal
